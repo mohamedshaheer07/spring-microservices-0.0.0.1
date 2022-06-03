@@ -1,4 +1,4 @@
-package io.javabrains.moviecatalogservice.models;
+package com.springboot.microservices.demo.moviecatalogservice.models;
 
 public class CatalogItem {
     private String name;

@@ -1,4 +1,4 @@
-package io.javabrains.moviecatalogservice.models;
+package com.springboot.microservices.demo.moviecatalogservice.models;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package io.javabrains.ratingsdataservice;
+package com.springboot.microservices.demo.ratingsdataservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

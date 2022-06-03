@@ -1,7 +1,7 @@
-package io.javabrains.ratingsdataservice.resources;
+package com.springboot.microservices.demo.ratingsdataservice.resources;
 
-import io.javabrains.ratingsdataservice.model.Rating;
-import io.javabrains.ratingsdataservice.model.UserRating;
+import com.springboot.microservices.demo.ratingsdataservice.model.Rating;
+import com.springboot.microservices.demo.ratingsdataservice.model.UserRating;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

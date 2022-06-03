@@ -1,4 +1,4 @@
-package io.javabrains.moviecatalogservice;
+package com.springboot.microservices.demo.moviecatalogservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

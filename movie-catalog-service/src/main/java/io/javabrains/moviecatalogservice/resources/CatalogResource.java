@@ -1,9 +1,9 @@
-package io.javabrains.moviecatalogservice.resources;
+package com.springboot.microservices.demo.moviecatalogservice.resources;
 
-import io.javabrains.moviecatalogservice.models.CatalogItem;
-import io.javabrains.moviecatalogservice.models.Movie;
-import io.javabrains.moviecatalogservice.models.Rating;
-import io.javabrains.moviecatalogservice.models.UserRating;
+import com.springboot.microservices.demo.moviecatalogservice.models.CatalogItem;
+import com.springboot.microservices.demo.moviecatalogservice.models.Movie;
+import com.springboot.microservices.demo.moviecatalogservice.models.Rating;
+import com.springboot.microservices.demo.moviecatalogservice.models.UserRating;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

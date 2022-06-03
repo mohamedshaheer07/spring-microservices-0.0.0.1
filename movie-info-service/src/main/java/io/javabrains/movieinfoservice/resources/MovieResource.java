@@ -1,7 +1,7 @@
-package io.javabrains.movieinfoservice.resources;
+package com.springboot.microservices.demo.movieinfoservice.resources;
 
-import io.javabrains.movieinfoservice.models.Movie;
-import io.javabrains.movieinfoservice.models.MovieSummary;
+import com.springboot.microservices.demo.movieinfoservice.models.Movie;
+import com.springboot.microservices.demo.movieinfoservice.models.MovieSummary;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.PathVariable;

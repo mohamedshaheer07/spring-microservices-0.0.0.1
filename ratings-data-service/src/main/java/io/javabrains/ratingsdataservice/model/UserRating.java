@@ -1,4 +1,4 @@
-package io.javabrains.ratingsdataservice.model;
+package com.springboot.microservices.demo.ratingsdataservice.model;
 
 import java.util.Arrays;
 import java.util.List;

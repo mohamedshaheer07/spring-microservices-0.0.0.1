@@ -1,4 +1,4 @@
-package io.javabrains.moviecatalogservice;
+package com.springboot.microservices.demo.moviecatalogservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

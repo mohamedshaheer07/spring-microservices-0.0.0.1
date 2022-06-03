@@ -1,4 +1,4 @@
-package io.javabrains.discoveryserver;
+package com.springboot.microservices.demo.discoveryserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

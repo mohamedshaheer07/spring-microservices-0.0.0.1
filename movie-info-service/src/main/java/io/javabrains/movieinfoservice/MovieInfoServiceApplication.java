@@ -1,4 +1,4 @@
-package io.javabrains.movieinfoservice;
+package com.springboot.microservices.demo.movieinfoservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
